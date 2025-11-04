@@ -6,15 +6,7 @@ To analyze business financial data using Excel and create an interactive dashboa
 
 ## 📂 Dataset
 
-File: 
-[Financial Performance Dashboard.xlsx]
-
-Source: [Financial Sample Dataset]
-
 Columns include: Segment, Country, Product, Sales, COGS, Profit, Month
-
-## 📸 Dashboard Preview
-[Dashboard Preview]
 
 ## 🧾 Key Metrics
 
@@ -29,15 +21,15 @@ Columns include: Segment, Country, Product, Sales, COGS, Profit, Month
 
 🔍 Dashboard Insights
 
-Sales Trend: Strong upward trend from May to November.
+- Sales Trend: Strong upward trend from May to November.
 
-Profit Margin: Highest for Paseo (~13%) and lowest for Carretera.
+- Profit Margin: Highest for Paseo (~13%) and lowest for Carretera.
 
-Country Filter: Allows users to view results for USA, Canada, France, Germany, and Mexico.
+- Country Filter: Allows users to view results for USA, Canada, France, Germany, and Mexico.
 
-Product Analysis: Paseo and VTT drive the highest profit.
+- Product Analysis: Paseo and VTT drive the highest profit.
 
-### ⚙️ Tools & Techniques Used
+## ⚙️ Tools & Techniques Used
 
 Microsoft Excel
 
@@ -49,7 +41,7 @@ Slicers for interactivity
 
 Conditional formatting for key metrics
 
-### 💡 Key Learning
+## 💡 Key Learning
 
 Designed an interactive Excel dashboard for financial insights.
 
