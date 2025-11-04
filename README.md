@@ -1,24 +1,32 @@
-📊 Financial Performance Dashboard (Excel)
-📌 Objective
+# 📊 Financial Performance Dashboard (Excel)
+
+## 📌 Objective
 
 To analyze business financial data using Excel and create an interactive dashboard that highlights Revenue, Expenses, Profit, and Profit Margin for better decision-making.
 
-📂 Dataset
+## 📂 Dataset
 
-File: Financial Performance Dashboard.xlsx
+File: 
+[Financial Performance Dashboard.xlsx]
 
-Source: Financial Sample Dataset
+Source: [Financial Sample Dataset]
 
 Columns include: Segment, Country, Product, Sales, COGS, Profit, Month
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
+[Dashboard Preview]
 
-🧾 Key Metrics
-KPI	Value
-💰 Total Revenue	
+## 🧾 Key Metrics
+
+###  KPI	Value
+💰 Total Revenue
+
 💸 Total Expenses	
+
 📈 Total Profit	
+
 🧮 Profit Margin	
+
 🔍 Dashboard Insights
 
 Sales Trend: Strong upward trend from May to November.
@@ -29,7 +37,7 @@ Country Filter: Allows users to view results for USA, Canada, France, Germany, a
 
 Product Analysis: Paseo and VTT drive the highest profit.
 
-⚙️ Tools & Techniques Used
+### ⚙️ Tools & Techniques Used
 
 Microsoft Excel
 
@@ -41,7 +49,7 @@ Slicers for interactivity
 
 Conditional formatting for key metrics
 
-💡 Key Learning
+### 💡 Key Learning
 
 Designed an interactive Excel dashboard for financial insights.
 
